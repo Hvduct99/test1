@@ -1,5 +1,5 @@
 function dongy() {
-    alert("Yay! Anh cung yeu em!");
+    alert("Yay! HÔNG TƯƠI XẤU VÃI CẢ LOL");
 }
 
 function khong() {
