@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  margin-top: 100px;
+  color: rgb(201, 26, 172);
+}
+body h1 {
+  font-size: 3em;
+  line-height: 70px;
+}
+body p {
+  color: rgb(241, 238, 15);
+  font-size: 2.5em;
+}
+body button {
+  width: 170px;
+  height: 100px;
+  background-color: rgb(162, 0, 255);
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+  margin: 25px;
+  position: absolute;
+}
+body #khong {
+  position: absolute;
+  left: 50%;
+}
+body img {
+  width: 500px;
+}
+
+/*# sourceMappingURL=style.css.map */
